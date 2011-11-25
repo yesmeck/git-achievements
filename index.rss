@@ -2,6 +2,7 @@
 <title>meck's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 <item><title>Apprentice Fisherman (Level 1)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Baptised</title><description>Set global user name using git config.</description></item>
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Apprentice Product Manager (Level 2)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 </channel></rss>
